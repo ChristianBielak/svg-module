@@ -1,6 +1,6 @@
 {
   "name": "@chrisbielak/svg-module",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "Super simple svg loading module for Nuxt.js, Fork for testing raw loader",
   "keywords": [
     "nuxt",
