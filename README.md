@@ -6,7 +6,7 @@
 [![Codecov][codecov-src]][codecov-href]
 [![License][license-src]][license-href]
 
-_Super simple svg loading module for Nuxt.js_
+_Super simple svg loading module for Nuxt.js_, Fork for testing raw loader
 
 [📖 **Release Notes**](./CHANGELOG.md)
 
