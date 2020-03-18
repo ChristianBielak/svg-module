@@ -1,6 +1,6 @@
 {
-  "name": "@nuxtjs/svg",
-  "version": "0.1.6",
+  "name": "@chrisbielak/svg-module",
+  "version": "0.1.7",
   "description": "Super simple svg loading module for Nuxt.js, Fork for testing raw loader",
   "keywords": [
     "nuxt",
@@ -10,7 +10,7 @@
     "vue",
     "webpack"
   ],
-  "repository": "nuxt-community/svg-module",
+  "repository": "ChristianBielak/svg-module",
   "license": "MIT",
   "author": "Sam Holmes",
   "files": [
